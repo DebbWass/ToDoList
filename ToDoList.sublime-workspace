@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"test",
+				"text-transform\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"co",
+				"colors"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"col",
+				"colorsNum"
+			],
+			[
+				"s",
+				"squares"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"cli",
+				"clickedColor"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"push",
+				"git: push to existing branch"
+			],
+			[
+				"commi",
+				"git: commit including unstaged files"
+			],
+			[
+				"pu",
+				"git: push"
+			],
+			[
+				"bra",
+				"git: branch"
+			],
+			[
+				"com",
+				"git: commit"
+			],
+			[
+				"bran",
+				"git: push to branch name"
+			],
+			[
+				"br",
+				"git: branch"
+			],
+			[
+				"clo",
+				"git: clone"
+			],
+			[
+				"cl",
+				"git: clone"
+			],
+			[
+				"clone",
+				"git: clone"
+			],
+			[
+				"init",
+				"git: init"
+			],
+			[
+				"pull",
+				"git: pull from branch"
+			],
+			[
+				"git cl",
+				"git: clone"
+			],
+			[
+				"ch",
+				"git: checkout"
+			],
+			[
+				"git remote",
+				"git: remote add"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/ToDoList"
+	],
+	"file_history":
+	[
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/ToDoList/Todo.css",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/ToDoList/ToDo.js",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/ToDoList/index.html",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/JqueryLesson/jQueryExercise/index.html",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/ToDoList/ToDoList.sublime-project",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/Git/color1/ColorGame.html",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/Git/color1/colorGame.css",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/Git/color1/colorGame.js",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/Git/colorGame/ColorGame/ColorGame.html",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/Git/colorGame/ColorGame/colorGame.js",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/Git/colorGame/colorGame.css",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/Git/colorGame/colorGame.js",
+		"/C/Users/sendi/Documents/UdemyFullStackCourse/Git/colorGame/ColorGame.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ToDoList.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
